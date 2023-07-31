@@ -1,7 +1,7 @@
  ## About
 <p>im mahdi ghasemi<br>
-programmer & Teacher and Developer</p>
-<span>Email: </span><a href='mail:mahdighasemiabari84@gmail.com'> mahdighasemiabari84@gmail.com </a>
+programmer & Teacher and Developer
+Email: [mahdighasemiabari84@gmail.com](mailto:mahdighasemiabari84@gmail.com)</p>
 
 ## Skills
 1. CEO at <a href='https://github.com/abarvision/'>`AbarVision`</a> Company.
