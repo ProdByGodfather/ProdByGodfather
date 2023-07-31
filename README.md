@@ -3,4 +3,4 @@
 programmer & Teacher and Developer</p>
 
 ## Skills
-. <b>teacher</b>
+1. CEO on <a href='https://github.com/abarvision/' target="_blank">`Abar Vision`</a>
