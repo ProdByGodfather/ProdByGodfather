@@ -15,3 +15,4 @@ programmer & Teacher and Developer<br>
 ![Go](https://img.shields.io/badge/Go%20Lang-%2320232a.svg?style=for-the-badge&logo=go)
 ![Js](https://img.shields.io/badge/java%20script-%2320232a.svg?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/C%20Sharp-%2320232a.svg?style=for-the-badge&logo=csharp)
+![Fast API](https://img.shields.io/badge/fastapi-%2320232a.svg?style=for-the-badge&logo=fastapi)
