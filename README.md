@@ -25,3 +25,4 @@ programmer & Teacher and Developer<br>
 ![Redis](https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge&logo=redis)
 ![Mongo DB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)
 ![PhP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php)
+![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask)
