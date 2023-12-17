@@ -17,3 +17,5 @@ programmer & Teacher and Developer<br>
 ![C#](https://img.shields.io/badge/C%20Sharp-%2320232a.svg?style=for-the-badge&logo=csharp)
 ![Fast API](https://img.shields.io/badge/fastapi-%2320232a.svg?style=for-the-badge&logo=fastapi)
 ![Gin](https://img.shields.io/badge/gin-%2320232a.svg?style=for-the-badge&logo=gin)
+![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux)
