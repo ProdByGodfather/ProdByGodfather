@@ -11,7 +11,7 @@ programmer & Teacher and Developer<br>
 3. Programmer and developer at <a href='https://github.com//hoopadvision/'>`Hoopadvision`</a> company
 
   ## Skills
-[![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python))](https://github.com//prodbygodfather)
+[![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python)](https://github.com//prodbygodfather)
 [![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django)](https://github.com//prodbygodfather)
 [![Go](https://img.shields.io/badge/Go%20Lang-%2320232a.svg?style=for-the-badge&logo=go)](https://github.com//prodbygodfather)
 [![Js](https://img.shields.io/badge/java%20script-%2320232a.svg?style=for-the-badge&logo=javascript)](https://github.com//prodbygodfather)
