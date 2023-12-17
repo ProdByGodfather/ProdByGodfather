@@ -11,3 +11,4 @@ programmer & Teacher and Developer<br>
 3. Programmer and developer at <a href='https://github.com//hoopadvision/'>`Hoopadvision`</a> company
 
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
