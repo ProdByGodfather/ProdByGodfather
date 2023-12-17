@@ -19,6 +19,8 @@ programmer & Teacher and Developer<br>
 ![Gin](https://img.shields.io/badge/gin-%2320232a.svg?style=for-the-badge&logo=gin)
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
 ![Redis](https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge&logo=redis)
 ![Mongo DB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)
 ![PhP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php)
