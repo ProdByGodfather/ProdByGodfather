@@ -13,3 +13,5 @@ programmer & Teacher and Developer<br>
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django)
 ![Go](https://img.shields.io/badge/Go%20Lang-%2320232a.svg?style=for-the-badge&logo=go)
+![Js](https://img.shields.io/badge/java%20script-%2320232a.svg?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%20Sharp-%2320232a.svg?style=for-the-badge&logo=csharp)
