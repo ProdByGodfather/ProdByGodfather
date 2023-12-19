@@ -26,3 +26,6 @@ programmer & Teacher and Developer<br>
 [![Mongo DB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)](https://github.com//prodbygodfather)
 [![PhP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php)](https://github.com//prodbygodfather)
 [![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask)](https://github.com//prodbygodfather)
+[![Numpy](https://img.shields.io/badge/numpy-%2320232a.svg?style=for-the-badge&logo=numpy)](https://github.com//prodbygodfather)
+[![pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas)](https://github.com//prodbygodfather)
+[![opencv](https://img.shields.io/badge/opencv-%2320232a.svg?style=for-the-badge&logo=opencv)](https://github.com//prodbygodfather)
