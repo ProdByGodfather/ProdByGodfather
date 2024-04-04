@@ -1,4 +1,4 @@
-# Mahdi Ghasemi (Dokey)
+# Dokey (Mahdi Ghasemi)
 
 ## About
 
