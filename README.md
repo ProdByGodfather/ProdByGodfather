@@ -1,6 +1,8 @@
-  ## About
+# Mahdi Ghasemi (Dokey)
+
+## About
+
 <p>
-im mahdi ghasemi<br>
 programmer & Teacher and Developer<br>
 <b>Email:</b> <a href="mailto:prodbygodfather@gmail.com">prodbygodfather@gmail.com</a>
 </p>
