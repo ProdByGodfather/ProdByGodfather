@@ -2,7 +2,7 @@
 
 <p>
 programmer & Teacher and Developer<br>
-<b>Email:</b> <a href="mailto:prodbygodfather@gmail.com">prodbygodfather@gmail.com</a>
+<b>Email:</b> <a href="mailto:prodbygodfather@gmail.com">prodbygodfather@gmail.com</a><br>
 <b>Website:</b> <a href="https://dr.abarvision.ir">dr.abarvision.ir</a>
 </p>
 
