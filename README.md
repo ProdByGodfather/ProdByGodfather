@@ -31,3 +31,4 @@ programmer & Teacher and Developer<br>
 [![opencv](https://img.shields.io/badge/opencv-%2320232a.svg?style=for-the-badge&logo=opencv)](https://github.com//prodbygodfather)
 [![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker)](https://github.com//prodbygodfather)
 [![Unity](https://img.shields.io/badge/unity-%2320232a.svg?style=for-the-badge&logo=unity)](https://github.com//prodbygodfather)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2320232a.svg?style=for-the-badge&logo=sqlalchemy)](https://github.com/prodbygodfather)
