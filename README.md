@@ -32,3 +32,4 @@ programmer & Teacher and Developer<br>
 [![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker)](https://github.com//prodbygodfather)
 [![Unity](https://img.shields.io/badge/unity-%2320232a.svg?style=for-the-badge&logo=unity)](https://github.com//prodbygodfather)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2320232a.svg?style=for-the-badge&logo=sqlalchemy)](https://github.com/prodbygodfather)
+[![Pydantic](https://img.shields.io/badge/pydantic-%2320232a.svg?style=for-the-badge&logo=pydantic)](https://github.com/prodbygodfather)
