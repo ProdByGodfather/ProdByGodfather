@@ -36,3 +36,4 @@ programmer & Teacher and Developer<br>
 [![Ajax](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery)](https://github.com/prodbygodfather)
 [![postgresql](https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql)](https://github.com/prodbygodfather)
 [![Jupyter](https://img.shields.io/badge/Notebook-%2320232a.svg?style=for-the-badge&logo=jupyter)](https://github.com/prodbygodfather)
+[![Nginx](https://img.shields.io/badge/nginx-%2320232a.svg?style=for-the-badge&logo=nginx)](https://github.com/prodbygodfather)
