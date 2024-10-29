@@ -17,7 +17,7 @@ programmer & Teacher and Developer<br>
 [![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python)](https://github.com//prodbygodfather)
 [![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django)](https://github.com//prodbygodfather)
 [![Js](https://img.shields.io/badge/java%20script-%2320232a.svg?style=for-the-badge&logo=javascript)](https://github.com//prodbygodfather)
-[![C#](https://img.shields.io/badge/C%20Sharp-%2320232a.svg?style=for-the-badge&logo=csharp)](https://github.com//prodbygodfather)
+[![C#](https://img.shields.io/badge/C%20Sharp-%2320232a.svg?style=for-the-badge&logo=c)](https://github.com//prodbygodfather)
 [![Fast API](https://img.shields.io/badge/fastapi-%2320232a.svg?style=for-the-badge&logo=fastapi)](https://github.com//prodbygodfather)
 [![Go](https://img.shields.io/badge/Go%20Lang-%2320232a.svg?style=for-the-badge&logo=go)](https://github.com//prodbygodfather)
 [![Gin](https://img.shields.io/badge/gin-%2320232a.svg?style=for-the-badge&logo=gin)](https://github.com//prodbygodfather)
@@ -38,3 +38,4 @@ programmer & Teacher and Developer<br>
 [![postgresql](https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql)](https://github.com/prodbygodfather)
 [![Jupyter](https://img.shields.io/badge/Notebook-%2320232a.svg?style=for-the-badge&logo=jupyter)](https://github.com/prodbygodfather)
 [![Nginx](https://img.shields.io/badge/nginx-%2320232a.svg?style=for-the-badge&logo=nginx)](https://github.com/prodbygodfather)
+[![CPP](https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=cplusplus)](https://github.com/prodbygodfather)
