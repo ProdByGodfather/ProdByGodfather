@@ -1,7 +1,7 @@
 # Dokey (Mahdi Ghasemi)
 
 <p>
-programmer & Teacher and Developer<br>
+programmer & Teacher and Software Developer<br>
 <b>Email:</b> <a href="mailto:prodbygodfather@gmail.com">prodbygodfather@gmail.com</a><br>
 </p>
 
