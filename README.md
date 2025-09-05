@@ -8,7 +8,7 @@ programmer & Teacher and Software Developer<br>
 
 
   ## Experience
-1. CEO and FullStack Developer at <a href='https://github.com/abarvision/'>`AbarVision`</a> Company.
+1. CEO and FullStack Developer at <a href='https://github.com/abarvision/'>`AbarVision`</a> company.
 2. Teacher of `python` and `c#` courses in accredited schools 01 under the supervision of Iran's education.
 3. Programmer and developer at <a href='https://github.com//hoopadvision/'>`Hoopadvision`</a> company.
 4. Senior Backend Developer at <a href='https://github.com/Bonyan-Afzar-Pishgam'>`Bonyan Afzar Pishgam`</a> company.
